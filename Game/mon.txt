@@ -1,0 +1,63 @@
+Zona Area al_nord_del_transbordador.
+est 1
+oest 3
+Objecte Capsa Capsa de_acer 1
+Estandard Ganivet d'acer_inoxidable 20
+Zona Area a_l'est_des_transbordador.Es_pot_veure_el_motor
+nord 0
+sud 2
+est 8
+Objecte Estandard Tuberia persada_de_acer 10
+Objecte Consumible Botella d'aigua -5
+Zona Area al_sud_del_transbordador._Es_pot_veure_l'entrada_del_transbordador
+entra 4
+sud 6
+est 1
+oest 3
+Zona Area a_l'oest_del_transbordador.
+nord 0
+sud 2
+oest 5
+Zona Interior del_transbordador._Es_pot_veure_l'indicador_de_combustible_a_0.
+surt 2
+Zona Area exerior_de_la_zona_A_de_la_base._La_porta_esta_tancada.
+est 3
+sud 6
+Zona Area exterior_de_la_zona_B_de_la_base._Hi_ha_una_entrada_de_ventilació_oberta.
+nord 2
+entra 15
+est 7
+oest 5
+Zona Area esterior_de_la_zona_C_de_la_base
+nord 7
+oest 6
+Zona Crater profund_amb_una_petita_cova.
+sud 7
+oest 1
+entra 9
+Zona Cova amb_un_conducte_cap_el_nord
+surt 8
+nord 10
+Zona Cova amb_un_sol_conducte_cap_a_l'est
+sud 9
+est 11
+Zona Cova amb_un_conducte_cap_el_sud
+oest 10
+sud 12
+Zona Cova amb_un_conducte_cap_a_l'oest
+nord 11
+Objecte Estandard Garrafa de_benzina
+Zona Cafeteria es_poden_veure_armaris_amb_tasses_i_plats
+est 14
+Objecte Estandard Tassa buida
+Objecte Estandard Plat brut
+Objecte Estandard Forquilla de_plastic
+Zona Interior de_la_zona_A_de_la_base._Es_pot_veure_la_porta_bloquejada,_es_impossible_d'obrir
+est 15
+oest 13
+Objecte Estandard Barra de_fusta
+Zona Interior de_la_zona_B_de_la_base._Hi_ha_la_sordida_de_ventilació_per_on_has_entrat
+est 16
+oest 14
+Zona Interior de_la_zona_C_de_la_base
+oest 15
